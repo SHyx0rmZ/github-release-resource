@@ -7,7 +7,7 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/cppforlife/go-semi-semantic/version",
-			"Rev": "a7ba07c61e58e6df7693d49a13d24f533182518a"
+			"Rev": "d8be4ee7bea995231f87f2e0ee4eae442335450f"
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf/proto",
